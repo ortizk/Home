@@ -13,6 +13,8 @@ img {
 body {
 	border-top: 10px solid pink;
 	border-bottom: 10px solid pink;
+	width: 60%;
+	margin: 0 auto;
 }
 .round {
 	border-radius: 100px;
