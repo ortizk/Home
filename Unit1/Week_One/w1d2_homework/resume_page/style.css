@@ -1,8 +1,28 @@
 h1 {
 	text-align: center;
 	font-family: helvetica;
+	text-transform: uppercase;
 }
 
 h3 {
 	color: red;
+}
+img {
+	border: 1px solid black;
+}
+body {
+	border-top: 10px solid pink;
+	border-bottom: 10px solid pink;
+}
+.round {
+	border-radius: 100px;
+}
+nav {
+	text-align: center;
+	background: yellow;
+	padding: 25px;
+}
+.nav {
+	padding: 25px;
+	font: helvetica;
 }
